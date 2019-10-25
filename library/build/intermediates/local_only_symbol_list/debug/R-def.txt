@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_range_left
+drawable ic_range_right
+string app_name
